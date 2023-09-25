@@ -1,6 +1,6 @@
-name = input('Enter your Name:')
-age = int(input('Enter your Age:'))
-address=input('Enter your Address:')
+name = input("Enter your Name:")
+age = int(input("Enter your Age:"))
+address=input("Enter your Address:")
 
 print("--------------------------")
 print("Your Information")
